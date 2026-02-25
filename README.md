@@ -110,6 +110,7 @@ The app is configured to use **Stellar Testnet** by default. To switch to Public
 
 > ⚠️ **Warning**: Use Public Network only when you're ready for real transactions with actual XLM.
 
+<<<<<<< HEAD
 ## 🎨 Customization
 
 ### Modify Theme Colors
@@ -128,14 +129,21 @@ theme: {
 }
 ```
 
+=======
+>>>>>>> 09e8932c8ef55edd6b83add7225c49b73f9b3050
 ### Adjust Transaction Settings
 
 Modify transaction timeout and fees in `src/utils/constants.ts`:
 
 ```typescript
 export const TX_CONFIG = {
+<<<<<<< HEAD
   timeout: 180,
   baseFee: '100',
+=======
+  timeout: 180,        // seconds
+  baseFee: '100',      // stroops
+>>>>>>> 09e8932c8ef55edd6b83add7225c49b73f9b3050
 };
 ```
 
@@ -191,3 +199,7 @@ Built with ❤️ using:
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 09e8932c8ef55edd6b83add7225c49b73f9b3050
