@@ -1,0 +1,52 @@
+{
+  "hash": "ca3f3a72",
+  "configHash": "97d4d4e6",
+  "lockfileHash": "92e772f3",
+  "browserHash": "407ad5ed",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "75f75875",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "fde9e68b",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "cce9e3ba",
+      "needsInterop": true
+    },
+    "@stellar/freighter-api": {
+      "src": "../../node_modules/@stellar/freighter-api/build/index.min.js",
+      "file": "@stellar_freighter-api.js",
+      "fileHash": "4326d0b7",
+      "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "1dd0a8d4",
+      "needsInterop": false
+    },
+    "@stellar/stellar-sdk": {
+      "src": "../../node_modules/@stellar/stellar-sdk/dist/stellar-sdk.min.js",
+      "file": "@stellar_stellar-sdk.js",
+      "fileHash": "065c74a0",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-VX2H6PUQ": {
+      "file": "chunk-VX2H6PUQ.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
